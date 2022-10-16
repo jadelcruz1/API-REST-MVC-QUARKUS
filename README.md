@@ -5,3 +5,4 @@ Project Maven
 version 1.0.0 snapshot
 Java 11
 .\mvnw compile quarkus:dev (para rodar o projeto com linha de comando).
+lib usada para criar o padrão Rest - RESTEasy JAX-RS
